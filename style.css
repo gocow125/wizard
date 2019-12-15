@@ -1,0 +1,11 @@
+body{background-color: #fcf0cf; margin: 100PX; text-align: center;font-family: 'Gupter', serif;}
+a.button{background-color: red;
+padding: 10px;
+border-radius: 10px;
+font-size: 2em;
+color: aliceblue;
+text-decoration: none;}
+canvas{
+    display: block; 
+    margin: 0 auto;
+    padding-bottom: 2em}
